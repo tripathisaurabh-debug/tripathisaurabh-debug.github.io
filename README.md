@@ -1,2 +1,2 @@
 # tripathisaurabh-debug.github.io
-Developer
+Templete Sample
